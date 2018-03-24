@@ -3,7 +3,7 @@ package src;
 /**
  * Sysc 2100 Assignment 4
  * @author (Gabriele Sarwar)
- * 101010867
+ * 
  * @version (March 19 2018)
  */
 public  class BSTDictionary<E,K extends Sortable> implements Dictionary<E,K>
